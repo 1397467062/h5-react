@@ -1,0 +1,9 @@
+* {
+    touch-action: pan-y;
+}
+input{
+    background:none;
+    outline:none;
+    border:0px;
+}
+input[type="text"]:focus,
